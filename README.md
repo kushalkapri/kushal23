@@ -1,3 +1,2 @@
-"# kushal23" 
-"# kushal23" 
-"# kushal23" 
+android:label="@string/multibakery"
+            android:theme="@style/Theme.MultiBakery">
